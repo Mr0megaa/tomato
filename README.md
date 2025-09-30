@@ -1,3 +1,2 @@
 # tomato
-les tomates c'est bon
-ouais
+les tomates c'est bon, pas le ketchup
