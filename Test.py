@@ -1,1 +1,1 @@
-print("Hello world !")
+print("Les tomates cerises sont délicieuses")
